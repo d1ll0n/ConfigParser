@@ -1,4 +1,4 @@
-### ConfigScraper
+## ConfigScraper
 
 This class makes most basic web scraping as easy as filling out a json file and loading html. It just adds three functions for cheerio scraping: getValue, parseOne and parseMany, which take care of some basic cheerio functions that get really repetitive in web scrapers. parseOne and parseMany do not refer to the number of outputs, but to the number of selectors being used.
 
